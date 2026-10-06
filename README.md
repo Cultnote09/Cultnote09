@@ -73,23 +73,6 @@
 
 ###
 
-<h3 align="left">🔥 My Stats</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PavniSm&show_icons=true&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=PavniSm&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavniSm&layout=compact&theme=tokyonight&hide_border=false&border_radius=5" height="150" alt="languages graph" />
-</div>
-
-###
-
 <!--
 **Cultnote09/Cultnote09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
